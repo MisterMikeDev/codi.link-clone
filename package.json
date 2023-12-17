@@ -1,0 +1,21 @@
+{
+  "name": "c",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host --port 5000",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "eslint-config-prettier": "^9.1.0",
+    "prettier": "^3.1.1",
+    "vite": "^5.0.8"
+  },
+  "dependencies": {
+    "js-base64": "^3.7.5",
+    "monaco-editor": "^0.45.0",
+    "split-grid": "^1.0.11"
+  }
+}
